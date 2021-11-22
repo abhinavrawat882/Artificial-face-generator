@@ -10,3 +10,4 @@ This means this model can generate infinite images of a person's face. I have ma
 
 Big files like model can not be uploaded to github hense i am leaving links to all models i have trained and explaination on how to use them :
 
+https://www.kaggle.com/abhinavrawat/artificial-face-generator?scriptVersionId=80464462
