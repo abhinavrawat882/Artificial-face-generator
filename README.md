@@ -7,6 +7,13 @@ This means this model can generate infinite images of a person's face. I have ma
  There are 3 models (2 basically).<br>
  1. feature extractor : Use this to extract facial feeatures of any perosns face . 
  2. generator : takes facial features and generates a face from that. <H>You can generate almost infinite faces of a person from one image</H>.
+<br>
+3. Model :it is combination of above two models to train the model .. and can be used for image reconstruction.
+
+# MODEL STRUCTURE :
+
+# 1. 
+
 
 
 
